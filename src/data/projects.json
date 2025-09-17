@@ -1,0 +1,51 @@
+[
+  {
+    "name": "2D Platformer Starter",
+    "description": "Beginner-friendly 2D platformer template with comments.",
+    "tags": ["2D", "Platformer", "Beginner"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/GDQuest/godot-2d-platformer"
+  },
+  {
+    "name": "Dialogic Plugin",
+    "description": "Visual dialogue system plugin for Godot.",
+    "tags": ["Plugin", "Dialogue", "Intermediate"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/coppolaemilio/dialogic"
+  },
+  {
+    "name": "2D Platformer Starter",
+    "description": "Beginner-friendly 2D platformer template with comments.",
+    "tags": ["2D", "Platformer", "Beginner"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/GDQuest/godot-2d-platformer"
+  },
+  {
+    "name": "Dialogic Plugin",
+    "description": "Visual dialogue system plugin for Godot.",
+    "tags": ["Plugin", "Dialogue", "Intermediate"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/coppolaemilio/dialogic"
+  },
+  {
+    "name": "Dialogic Plugin",
+    "description": "Visual dialogue system plugin for Godot.",
+    "tags": ["Plugin", "Dialogue", "Intermediate"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/coppolaemilio/dialogic"
+  },
+  {
+    "name": "2D Platformer Starter",
+    "description": "Beginner-friendly 2D platformer template with comments.",
+    "tags": ["2D", "Platformer", "Beginner"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/GDQuest/godot-2d-platformer"
+  },
+  {
+    "name": "Dialogic Plugin",
+    "description": "Visual dialogue system plugin for Godot.",
+    "tags": ["Plugin", "Dialogue", "Intermediate"],
+    "language": "GDScript",
+    "repo_url": "https://github.com/coppolaemilio/dialogic"
+  }
+]
